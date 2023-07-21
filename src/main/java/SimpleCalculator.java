@@ -1,5 +1,5 @@
 public class SimpleCalculator {
-    public static void main(String[] args) {
-
+    public int add(int numberA , int numberB){
+        return numberA + numberB ;
     }
 }
